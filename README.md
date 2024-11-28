@@ -11,4 +11,4 @@ I will collect your home assignment solutions through private github repositorie
 
 | 01 | [[HW1_Python]-YOUR_NAME.ipynb](0-Homework/[HW1_Python]-YOUR_NAME.ipynb) | November 28, 23:59 |
 | -- | ---------------------------- | ------- |
-| 02 |  |  |
+| 02 |  [[HW2_Python]-YOUR_NAME.ipynb](0-Homework/[HW2_Python]-YOUR_NAME.ipynb)| December 05, 23:59 |
